@@ -46,3 +46,6 @@ src="https://img.shields.io/twitter/follow/fers4t?logo=twitter&style=for-the-bad
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/fers4t"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
+![Metrics](https://metrics.lecoq.io/fers4t)

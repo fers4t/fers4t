@@ -1,12 +1,8 @@
-<div align='left'>
-  <a href="https://twitter.com/fers4t" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://github.com/fers4t/fers4t/blob/master/devcard.svg"
-    />
-  </a>
- </div>
+<img
+ width="256"
+ align="right"
+ src="https://raw.githubusercontent.com/fers4t/fers4t/devcard/devcard.svg"
+/>
  
  
 Hi 👋 My name is Fersat

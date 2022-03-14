@@ -46,6 +46,3 @@ src="https://img.shields.io/twitter/follow/fers4t?logo=twitter&style=for-the-bad
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/fers4t"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-
-![Metrics](https://metrics.lecoq.io/fers4t?template=classic&languages=1&achievements=1&lines=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.aliases=TypeScript%2C%20JavaScript&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=security%2C%20speed%20optimization&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&achievements.only=explorer%2C%20northern%20&config.timezone=Europe%2FIstanbul&config.twemoji=true&config.octicon=true)

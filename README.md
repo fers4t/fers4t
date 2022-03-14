@@ -1,7 +1,7 @@
 <img
  width="256"
  align="right"
- src="https://raw.githubusercontent.com/fers4t/fers4t/devcard/devcard.svg"
+ src="https://github.com/fers4t/fers4t/blob/main/devcard.svg"
 />
  
  

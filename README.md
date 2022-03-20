@@ -14,7 +14,7 @@ Full Stack Web Developer
 I'm a philosophy graduated full stack web developer and an nature explorer. I'm fluent in React 🥷🏻
 
 * 🌍  I'm based in Rize, TR
-* ✉️  You can contact me at [fers4t@icloud.com](mailto:fers4t@icloud.com)
+* ✉️  You can contact me at [fers4t [at] icloud [dot] com](mailto:fers4t@icloud.com)
 * 🤝  I'm open to collaborating on volunteering projects or what is "useful" for humanity.
 
 <a href="https://www.twitter.com/fers4t" target="_blank" rel="noreferrer"><img

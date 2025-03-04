@@ -3,18 +3,12 @@
  align="right"
  src="https://github.com/fers4t/fers4t/blob/main/devcard.svg"
 />
- 
- 
-Hi 🐋 My name is Fersat
-=======================
 
-Full Stack Web Developer
+Senior Developer
 ------------------------
 
-I'm a philosophy graduated full stack web developer and an nature explorer. I'm fluent in React 🥷🏻
+I'm a philosophy graduated senior developer and an nature explorer
 
-* 🌍  I'm based in Rize, TR
-* ✉️  You can contact me at [fers4t [at] icloud [dot] com](mailto:fers4t@icloud.com)
 * 🤝  I'm open to collaborating on volunteering projects or what is "useful" for humanity.
 
 <a href="https://www.twitter.com/fers4t" target="_blank" rel="noreferrer"><img
@@ -56,7 +50,3 @@ src="https://img.shields.io/twitter/follow/fers4t?logo=twitter&style=for-the-bad
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/fers4t"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fers4t&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/fers4t"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

@@ -9,13 +9,9 @@ Senior Developer
 
 I'm a philosophy graduated senior developer and an nature explorer
 
-* 🤝  I'm open to collaborating on volunteering projects or what is "useful" for humanity.
-
 <a href="https://www.twitter.com/fers4t" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/fers4t?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
 /></a>
-
-### Skills
 
 ### Skills
 
